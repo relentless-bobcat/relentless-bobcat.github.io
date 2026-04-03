@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Bobcat's homepage
 description: Bookmark this to keep an eye on my project updates!
 
-exclude:['README.md']
+exclude: ['README.md']
